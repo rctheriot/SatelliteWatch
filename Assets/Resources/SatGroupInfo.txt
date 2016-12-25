@@ -1,0 +1,83 @@
+﻿Satellites(GPS)
+GPS -  Global Positioning System
+A GPS satellite is a satellite used by the NAVSTAR Global Positioning System (GPS). The first satellite in the system, Navstar 1, was launched February 29, 1978. The GPS satellite constellation is operated by the 50th Space Wing of the United States Air Force. The GPS satellites circle the Earth at an altitude of about 20,000 km (12,427 miles) and complete two full orbits every day.
+
+Satellites(Weather)
+Weather
+The weather satellites are primarily used to monitor the weather and climate of the Earth. Satellites can be polar orbiting, covering the entire Earth asynchronously, or geostationary, hovering over the same spot on the equator.
+
+Satellites(NOAA)
+NOAA
+NOAA uses data from its satellites, along with those of its partners, to generate weather forecasts each day and to expand the understanding of our dynamic planet. To do this, NOAA operates three types of satellite systems—those that orbit around Earth (polar-orbiting), those that stay focused on one region of Earth (geostationary) and a deep space satellite, located one million miles from Earth (not shown here).
+
+Satellites(SpaceStations)
+Space Stations
+A space station, is a spacecraft capable of supporting a crew, which is designed to remain in space for an extended period of time and for other spacecraft to dock. Other vehicles transport people and cargo to and from the station. As of September 2014 two space stations are in orbit: the International Space Station, which is permanently manned, and China's Tiangong-1 (which successfully launched on September 29, 2011), which is unmanned most of the time. Previous stations include the Almaz and Salyut series, Skylab, and most recently Mir. Other satellites in this group are Cubesats and Russian cargo ships that went to the ISS. 
+
+Satellites(GOES)
+Geostationary Operational Environmental Sat
+Operated by the United States' National Environmental Satellite, Data, and Information Service (NESDIS), supports weather forecasting, severe storm tracking, and meteorology research. Spacecraft and ground-based elements of the system work together to provide a continuous stream of environmental data. The National Weather Service (NWS) uses the GOES system for its United States weather monitoring and forecasting operations, and scientific researchers use the data to better understand land, atmosphere, ocean, and climate interactions. The GOES system uses geosynchronous satellites which—since the launch of SMS-1 in 1974—have been a basic element of U.S. weather monitoring and forecasting.
+
+Satellites(EarthResources)
+Earth Resources
+Earth observation satellites are satellites specifically designed for Earth observation from orbit, similar to spy satellites but intended for non-military uses such as environmental monitoring, meteorology, map making etc. Most Earth observation satellites carry instruments that should be operated at a relatively low altitude. Altitudes below 500-600 kilometers are in general avoided, though, because of the significant air-drag at such low altitudes frequent orbit maneuvers are necessary. To get global coverage with a low orbit it must be a polar orbit or nearly so. Most are in sun-synchronous orbits.
+
+Satellites(Visual)
+Visual
+Visual satellites are satellites that can been seen with the naked eye on a clear night. These are the brightests satellites in the sky and usually are in a low earth orbit.
+
+Satellites(SARSAT)
+SARSAT
+The SARSAT system uses NOAA satellites in low-earth and geostationary orbits to detect and locate aviators, mariners, and land-based users in distress. The satellites relay distress signals from emergency beacons to a network of ground stations and ultimately to the U.S. Mission Control Center (USMCC). The USMCC processes the distress signal and alerts the appropriate search and rescue authorities to who is in distress and, more importantly, where they are located.
+
+Satellites(Disaster)
+Disaster
+The Disaster Monitoring Constellation for International Imaging (DMCii) consists of a number of remote sensingsatellites constructed by Surrey Satellite Technology Ltd (SSTL) and operated for the Algerian, Nigerian, Turkish, British and Chinese governments by DMC International Imaging. The DMC provides emergency Earth imaging for disaster relief under the International Charter for Space and Major Disasters, which the DMC formally joined in November 2005. Other DMC Earth imagery is used for a variety of civil applications by a variety of governments. Spare available imaging capacity is sold under contract. 
+
+Satellites(TDRSS)
+Tracking and Data Relay Satellite System 
+The Tracking and Data Relay Satellite System (TDRSS) is a network of American communications satellites (each called a Tracking and Data Relay Satellite (TDRS)) and ground stations used by NASA for space communications. The system was designed to replace an existing network of ground stations that had supported all of NASA's manned flight missions. The prime design goal was to increase the time spacecraft were in communication with the ground and improve the amount of data that could be transferred. Many Tracking and Data Relay Satellites were launched in the 1980s and 1990s with the Space Shuttle.
+
+Satellites(Gorizont)
+Gorizont
+Gorizont is a series of 35 Russian, previously Soviet, geosynchronous communication satellites launched between 1978 and 2000. The program was started in order to develop a satellite system to relay coverage of the 1980 Olympic Games from Moscow. The first four satellites were originally launched for this sole purpose. Following this, the Gorizont system was integrated into the YeSSS Unified Satellite Communication System, and used to relay both civilian and military communications. From 1988 onwards, the satellites were also used in support of the Okean programme.
+
+Satellites(Molniya)
+Molniya
+Molniya are a militarycommunications satellite system used by the Soviet Union. The satellites were placed into highly eccentric elliptical orbits known as Molniya orbits, characterized by an inclination of +63.4 degrees and a period of around 12 hours. Such orbits allowed them to remain visible to sites in polar regions for extended periods, unlike geostationary satellites in geosynchronous orbits with a 24-hour orbital period. The Molniya program was authorized by a government decree in late 1960s. After some initial failures in 1964, the first operational satellite, Molniya 1-01, was successfully launched on April 23, 1965.
+
+Satellites(Iridium)
+Iridium
+The Iridium satellite constellation is a satellite constellation providing voice and data coverage to satellite phones, pagers and integrated transceivers over the Earth's entire surface. Iridium Communications owns and operates the constellation and sells equipment and access to its services. The constellation consists of 66 active satellites in orbit, and additional spare satellites to serve in case of failure.[2] Satellites are in low Earth orbit at a height of approximately 485 mi (781 km) and inclination of 86.4°. 
+
+Satellites(Orbcomm)
+Orbcomm
+Orbcomm satellites are low Earth orbit communications satellites, operated by the United States satellite communications company Orbcomm. As of July 2014, 51 such satellites have orbited Earth, with 50 still continuing to do so. 
+
+Satellites(Globalstar)
+Globalstar
+Globalstar is a low Earth orbit (LEO) satellite constellation for satellite phone and low-speed data communications, somewhat similar to the Iridium satellite constellation and Orbcomm satellite systems. 
+
+Satellites(Amateur Radio)
+Amateur Radio
+An amateur radio satellite is an artificial satellite built and used by amateur radio operators for use in the Amateur-satellite service.[1] These satellites use amateur radio frequency allocations to facilitate communication between amateur radiostations. These satellites can be used for free by licensed amateur radio operators for voice (FM, SSB) and data communications (AX.25, packet radio, APRS). Currently, over 5 fully operational amateur-satellites in orbit act as repeaters, linear transponders or store and forward digital relays. 
+
+Satellites(Glonass)
+Glonass
+GLONASS or "GLObal NAvigation Satellite System", is a space-based satellite navigation system operating in the radionavigation-satellite service and used by the Russian Aerospace Defence Forces. It provides an alternative to GPS and is the second alternative navigational system in operation with global coverage and of comparable precision. 
+
+Satellites(Galileo)
+Galileo
+Galileo is the global navigation satellite system (GNSS) that is currently being created by the European Union (EU) and European Space Agency(ESA). The €5 billion project is named after the Italian astronomer Galileo Galilei. One of the aims of Galileo is to provide an indigenous alternative high-precision positioning system upon which European nations can rely, independently from the Russian GLONASS and US GPS systems. The use of basic (low-precision) Galileo services will be free and open to everyone. The high-precision capabilities will be available for paying commercial users.  
+
+Satellites(Beidou)
+Beidou
+The BeiDou Navigation Satellite System  is a Chinese satellite navigation system. It consists of two separate satellite constellations – a limited test system that has been operating since 2000, and a full-scale global navigation system that is currently under construction. The second generation of the system, officially called the BeiDou Navigation Satellite System (BDS) and also known as COMPASS or BeiDou-2, will be a global satellite navigation system consisting of 35 satellites, and is under construction as of January 2015.  
+
+Satellites(NNSS)
+NNSS - Navy Navigation Satellite System
+The Navy Navigation Satellite System was the first satellite navigation system to be used operationally. The system was primarily used by the U.S. Navy to provide accurate location information to its Polaris ballistic missile submarines, and it was also used as a navigation system by the Navy's surface ships, as well as for hydrographic survey and geodetic surveying. Transit provided continuous navigation satellite service from 1964, initially for Polaris submarines and later for civilian use as well. 
+
+Satellites(CubeSat)
+CubeSat
+A CubeSat is a type of miniaturized satellite for space research that is made up of multiples of 10×10×11.35 cm cubic units. CubeSats have a mass of no more than 1.33 kilograms per unit, and often use of commercial off-the-shelf (COTS) components for their electronics and structure. CubeSats are most commonly put in orbit by deployers on the International Space Station, or launched as secondary payloads on a launch vehicle. Academia accounted for the majority of CubeSat launches until 2013, when over half of launches were for non-academic purposes, and by 2014 most newly deployed CubeSats were for commercial or amateur projects. 
