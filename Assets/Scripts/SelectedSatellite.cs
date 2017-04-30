@@ -46,8 +46,9 @@ public class SelectedSatellite : MonoBehaviour
         setSatelliteStart(firstSat.GetComponent<SatelliteController>().getTle(), firstSat.gameObject);
 
         lineRenderer.material = new Material(Shader.Find("Particles/Additive"));
-        lineRenderer.SetVertexCount(0);
-        lineRenderer.SetWidth(0.03f, 0.03f);
+        lineRenderer.positionCount = 0;
+        lineRenderer.endWidth = 0.03f;
+        lineRenderer.startWidth = 0.03f;
 
         satInfo.SetActive(true);
         lavaLogo.SetActive(true);
@@ -68,7 +69,7 @@ public class SelectedSatellite : MonoBehaviour
         }
         else
         {
-            lineRenderer.SetVertexCount(0);
+            lineRenderer.positionCount = 0;
         }
 
         if (wandRight.GetComponent<WandController>().TouchpadDown() && wandRight.GetComponent<WandController>().DpadDOWN())
@@ -210,11 +211,12 @@ public class SelectedSatellite : MonoBehaviour
 
         Vector3 direction = wandRight.transform.forward;
 
-        lineRenderer.SetVertexCount(2);
+        lineRenderer.positionCount = 2;
 
         lineRenderer.SetPosition(0, startPos);
         lineRenderer.SetPosition(1, startPos + (direction * 1000));
-        lineRenderer.SetColors(lineColorMiss, lineColorMiss);
+        lineRenderer.startColor = lineColorMiss;
+        lineRenderer.endColor = lineColorMiss;
 
         if (Physics.Raycast(startPos, direction, out hit, 1000.0f))
         {
@@ -222,7 +224,8 @@ public class SelectedSatellite : MonoBehaviour
             {
                 setSatellite(hit.collider.gameObject);
                 lineRenderer.SetPosition(1, hit.point);
-                lineRenderer.SetColors(lineColorHit, lineColorHit);
+                lineRenderer.startColor = lineColorHit;
+                lineRenderer.endColor = lineColorHit;
             }
         }
     }

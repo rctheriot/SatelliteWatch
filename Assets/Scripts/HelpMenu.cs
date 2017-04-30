@@ -198,7 +198,7 @@ public class HelpMenu : MonoBehaviour
 
         try
         {
-            menuObj.GetComponent<LineRenderer>().SetVertexCount(2);
+            menuObj.GetComponent<LineRenderer>().positionCount = 2;
             menuObj.GetComponent<LineRenderer>().SetPosition(0, menuObj.transform.position);
             menuObj.GetComponent<LineRenderer>().SetPosition(1, wand.transform.GetChild(0).transform.Find(wandObjName).transform.GetChild(0).transform.position);
 
@@ -216,7 +216,7 @@ public class HelpMenu : MonoBehaviour
 
         try
         {
-            menuObj.GetComponent<LineRenderer>().SetVertexCount(2);
+            menuObj.GetComponent<LineRenderer>().positionCount = 2;
             menuObj.GetComponent<LineRenderer>().SetPosition(0, menuObj.transform.position);
             menuObj.GetComponent<LineRenderer>().SetPosition(1, wand.transform.GetChild(0).transform.Find(wandObjName).transform.GetChild(0).transform.position + lineRendererShift);
 
